@@ -1,2 +1,2 @@
 # UpSkiller
-Business Analyst Application written in JavaScript and derived from Atlassian Suite.
+Business Analyst Application is written in JavaScript, including UI/UX design
